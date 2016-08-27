@@ -1,6 +1,6 @@
 {
   "name": "fetch-ckan",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fetch ckan api like data.gov",
   "main": "lib/index.js",
   "directories": {
